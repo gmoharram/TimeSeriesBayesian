@@ -1,2 +1,2 @@
 # TimeSeriesBayesian
-Bayesian Inference on Parameters of a periodic function using snowline (johannesbuchner.github.io/snowline/) and UltraNest (johannesbuchner.github.io/UltraNest/)
+Bayesian Inference on Parameters of a periodic function using the snowline/pypmc importance sampler (johannesbuchner.github.io/snowline/) and the UltraNest nested sampling algorithm (johannesbuchner.github.io/UltraNest/). 
